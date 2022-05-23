@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "McMasterGenericHostBug41": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}

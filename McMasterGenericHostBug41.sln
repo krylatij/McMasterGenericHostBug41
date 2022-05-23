@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McMasterGenericHostBug41", "McMasterGenericHostBug41\McMasterGenericHostBug41.csproj", "{37227697-380D-4AF1-969D-2C111D308A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37227697-380D-4AF1-969D-2C111D308A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37227697-380D-4AF1-969D-2C111D308A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37227697-380D-4AF1-969D-2C111D308A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37227697-380D-4AF1-969D-2C111D308A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B502F1A-0BB1-41B6-9159-780AC6264425}
+	EndGlobalSection
+EndGlobal
